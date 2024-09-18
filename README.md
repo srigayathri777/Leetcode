@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srigayathri777/Leetcode/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/srigayathri777/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/srigayathri777/Leetcode/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/srigayathri777/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
