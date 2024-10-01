@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srigayathri777/Leetcode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/srigayathri777/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srigayathri777/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/srigayathri777/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/srigayathri777/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/srigayathri777/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
