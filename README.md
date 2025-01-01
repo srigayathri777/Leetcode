@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/srigayathri777/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/srigayathri777/Leetcode/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/srigayathri777/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/srigayathri777/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/srigayathri777/Leetcode/tree/master/0742-to-lower-case) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srigayathri777/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/srigayathri777/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
