@@ -1,11 +1,7 @@
-class Solution:
-    def isPalindrome(self, x: int) -> bool:
-        return str(x) == str(x)[::-1]
+class Solution(object):
+    def isPalindrome(self, x):
+        if x < 0:
+            return False
+        reverse = int(str(x)[::-1])
+        return x == reverse
 
-sol = Solution()
-print(sol.isPalindrome(121))  
-print(sol.isPalindrome(-121))
-print(sol.isPalindrome(10))   
-
-
-        
